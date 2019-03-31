@@ -1,0 +1,17 @@
+# jemdoc: menu{menu.jemdoc}{text.html}
+==ECE 310: Digital Signal Processing I
+[http://illinois.edu University of Illinois at Urbana-Champaign]
+
+== Textbooks:
+
+. Required
+
+.. D. Munson and A. Singer, ECE 310 Course Notes (purchase at Everitt Lab).
+. Optional
+
+.. Buck, Daniel, Singer, Computer Explorations in Signals and Systems Using MATLAB.
+.. Proakis and Manolakis, Introduction to Digital Signal Processing, Prentice Hall, 3rd Ed., 1996.
+.. Oppenheim and Schafer, with Buck, Discrete-Time Signal Processing, Prentice Hall, 3rd Ed., 2009.
+
+== References:
+- [http://www.dspguide.com/ch1.htm The Scientist and Engineer's Guide to Digital Signal Processing] 

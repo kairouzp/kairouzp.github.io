@@ -1,0 +1,93 @@
+# jemdoc: menu{menu.jemdoc}{index.html}
+==Peter Kairouz
+
+~~~
+{}{img_left}{kairouz_new.jpg}{alt text}{170px}{240px}
+Postdoctoral Research Fellow\n
+[https://ee.stanford.edu/ Electrical Engineering]\n
+[https://www.stanford.edu/ Stanford University]\n
++1 (217) 550-2697\n
+[kairouzp@stanford.edu kairouzp@stanford.edu] \n
+Hosts: [http://stanford.edu/~aozgur/ Ayfer Ozgur] and [http://web.stanford.edu/~ramr/ Ram Rajagopal] \n
+- [kairouzcv.pdf CV] +*(12\/1\/2017)*+ 
+- [kairouz_research.pdf Research Statement] +*(12\/1\/2017)*+
+- [kairouz_teaching.pdf Teaching Statement] +*(12\/1\/2017)*+
+- [https://scholar.google.com/citations?user=m8NUgw0AAAAJ&hl=en Google Scholar Profile]
+~~~
+t 
+== News
+~~~
+- Check out our new work on [kairouz_GAP.pdf Generative Adversarial Privacy].
+- Slides for my talk "Embracing Uncertainty" at [https://systemx.stanford.edu/events/workshop/20170509/2017-spring-workshop-day-heterogeneous-integration-ioe-and-photonic-quantum Stanford SystemX IoE Workshop] are now available [IOE_3_Kairouz_v2.pdf here]. 
+- Check out our new work on [kairouz_SCGT.pdf Sparse Combinatorial Group Testing].
+- I have joined Stanford University as a Postdoctoral Scholar. 
+- Slides for my talk "Discrete Distribution Estimation under Local Privacy Peter" at ICML 2016 are now available [icml2016_v2.pdf here].
+- I have successfully defended my PhD! 
+- Our paper "Rumor Source Obfuscation on Irregular Trees" will appear in SIGMETRICS 2016.
+- I have been chosen to receive The 2016 Harold L. Olesen Award for Excellence in Undergraduate Teaching.
+- I will be teaching [https://courses.engr.illinois.edu/ece313/ ECE 313/MATH 362: Probability with Engineering Applications] this Fall.
+- Our paper [http://arxiv.org/abs/1412.8439 Spy vs. Spy: Rumor Source Obfuscation] was awarded the best paper award at [http://www.sigmetrics.org/sigmetrics2015/ SIGMETRICS 2015].
+- Our proposal on [https://www.ece.illinois.edu/newsroom/article/10643 Statistical Data Privacy] was awarded $500,000 in an NSF grant.
+~~~
+
+== Biography
+I am a postdoctoral scholar at Stanford University. I received my MS in ECE, MS in Maths, and PhD in ECE from the University of Illinois at Urbana-Champaign. For my masters, I was mainly interested in signal processing and wireless communication. I interned twice at Qualcomm (in 2012 and 2013), and was awarded The 2012 Roberto Padovani Scholarship from Qualcomm's Research Center. For my PhD, I chose to work on privacy-preserving machine learning and anynomous broadcasting over networks, winning the Best Paper Award at SIGMETRICS 2015. I recently interned at Google, where I designed privacy-aware machine learning algorithms. My research interests span the areas of data and network sciences, privacy-preserving data analysis, machine learning, and information theory.
+
+== Education
+*[http://illinois.edu University of Illinois at Urbana-Champaign]*
+- Ph.D. in Electrical and Computer Engineering, May 2016
+- M.S. in Applied Mathematics, May 2016 
+- M.S. in Electrical and Computer Engineering, December 2012 
+
+
+*[http://aub.edu.lb American University of Beirut]*
+- B.E. in Electrical and Computer Engineering, June 2010 
+
+== Awards
+*[http://www.uiuc.edu/ University of Illinois at Urbana-Champaign]*
+- The 2016 Harold L. Olesen Award for Excellence in Undergraduate Teaching
+
+*[https://www.acm.org/ Association for Computing Machinery (ACM)]*
+- Best Paper Award at ACM SIGMETRICS 2015, with Giulia Fanti, Sewoong Oh, and Pramod Viswanath
+
+*[http://www.qualcomm.com/research Qualcomm Incorporated]*
+- Qualcomm Innovation Fellowship Finalist Award 2015, with Giulia Fanti
+- The 2012 Roberto Padovani Scholarship
+
+
+*[http://www.aub.edu.lb/ American University of Beirut]*
+- Distinguished ECE Graduate Award, 2010
+- Benjamin Franklin Scholarship from the United States Agency for International Development, 2006
+- Graduated with High Distinction, 2006
+
+== Research Experience
+*[http://isl.stanford.edu/ Information Systems Laboratory, Stanford University]* 
+- On-device Intelligence and Context-Aware Privacy, September 2016 \- Present
+
+*[http://www.csl.uiuc.edu/ Coordinated Science Laboratory, University of Illinois]*
+- Metadata Privacy and Privacy-Preserving Learning, January 2013 \- August 2016
+
+*[https://research.google.com/ Google Research, Google Incorporated]*
+- Privacy Preserving Machine Learning Algorithms, May 2015 \- August 2015
+
+*[http://www.qualcomm.com/research Qualcomm Research, Qualcomm Incorporated]*
+- Interference-Aware Rate Control for Small Cells, May 2013 \- September 2013
+
+*[http://www.csl.uiuc.edu/ Coordinated Science Laboratory, University of Illinois]*
+- Multi-Input Multi-Output Communications over Optical Networks, August 2010 \- December 2012
+
+*[http://www.qualcomm.com/research Qualcomm Research, Qualcomm Incorporated]*
+- Variable Block Length Coding for LTE Systems, May 2012 \- September 2012
+
+*[http://www.cfar.umd.edu/ Center for Automation Research, University of Maryland]*
+- Face Recognition Algorithms for Large Datasets, June 2009 \- September 2009
+
+== Teaching Experience
+- [teaching/ece313/index313.html ECE 313/MATH 362: Probability with Engineering Applications], Fall 2015
+- [https://courses.engr.illinois.edu/ece398bd/ ECE 398BD: Making Sense of Big Data], Spring and Fall 2014, Spring 2016
+- [teaching/ece310/index310.html ECE 310: Digital Signal Processing], Summer 2010
+- [teaching/ece311/index311.html ECE 311: Digital Signal Processing Lab], Summer 2010
+
+== Conferences Organized
+- General Chair for the [http://studentconference.csl.illinois.edu/ 10th Annual CSL Student Conference], Spring 2015
+- Media Chair for the 6th Annual CSL Student Conference, Spring 2011

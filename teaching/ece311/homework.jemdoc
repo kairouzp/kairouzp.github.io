@@ -1,0 +1,47 @@
+# jemdoc: menu{menu.jemdoc}{homework.html}
+==ECE 311: Digital Signal Processing Lab
+[http://illinois.edu University of Illinois at Urbana-Champaign]
+
+== Matlab Tutorials and Links:
+
+- MATLAB: available for download from UIUC WebStore (also available on [http://ews.uiuc.edu/ EWS machines])
+- [http://freemat.sourceforge.net/ FreeMat]: A free, open-source MATLAB-compatible numerical software package
+- [http://www.mathworks.com/moler/ Numerical Computing with MATLAB]: A free textbook for an introductory course in numerical methods, MATLAB, and technical computing.
+- [secure/matlab_note.pdf MATLAB tutorial for beginners]
+- [secure/matlab_primer.pdf MATLAB Primer]
+- [http://www.mathworks.com/help/toolbox/signal/index.html MATLAB Signal Processing toolbox manual from MathWorks]
+- [http://www.amazon.com/exec/obidos/ASIN/0130421553/ref=pd_sxp_f/103-1892276-9367069Computer Explorations in Signals and Systems Using MATLAB (2nd Ed.)] by John R. Buck, Michael M. Daniel, Andrew C. Singer. (Amazon link)
+- [http://www.mat.ucsb.edu/~b.sturm/SSUM/docs/SSUM.htm SSUM: Signals and Systems Using MATLAB]
+- [http://users.ece.gatech.edu/mcclella/matlabGUIs/ Educational MATLAB GUIs]
+
+== Lab Assignments:
+
+~~~
+{}{table}{}
+Session| Lab | Assignment | MATLAB Files| Solution||
+
+June 14, 2011| Introduction to Matlab| [secure/lab1/lab1.pdf Lab 1] |[secure/lab1/prob1.m prob1.m], [secure/lab1/prob2.m prob2.m]\n
+ [secure/lab1/prob3.m prob3.m], [secure/lab1/prob4.m prob4.m]\n
+ [secure/lab1/prob5.m prob5.m]|[secure/lab1/lab1sol.pdf solution] ||
+
+June 21, 2011| DTFT and DFT\n
+DFT Spectral Analysis| [secure/lab2/lab2.pdf Lab 2] |[secure/lab2/tones.mat tones.mat], [secure/lab2/mtlb.mat mtlb.mat]\n
+ [secure/lab2/prob1.m prob1.m], [secure/lab2/prob3.m prob3.m] | [secure/lab2/Lab2sol.pdf solution]||
+
+June 28, 2011| Sampling, Convolution, LTI systems, and\n
+Difference Equations| [secure/lab3/lab3.pdf Lab 3] |[secure/lab3/prob1.m prob1.m], [secure/lab3/prob4.m prob4.m]| [secure/lab3/Lab3sol.pdf solution]||
+
+July 05, 2011| Difference Equations, z-Transforms, Pole-Zero Diagrams,\n
+BIBO Stability and Quantization Effects| [secure/lab4/lab4.pdf Lab 4] |[secure/lab4/dpzplot.m dpzplot.m], [secure/lab4/df2cf.m df2cf.m]\n
+[secure/lab4/quant.m quant.m] | [secure/lab4/Lab4sol.pdf solution]||
+ 
+July 12, 2011| Frequency Response| [secure/lab5/lab5.pdf Lab 5] |[secure/lab5/prob3.m prob3.m],[secure/lab5/prob4.m prob4.m] | [secure/lab5/Lab5sol.pdf solution]||
+
+July 19, 2011|FIR Filter Design|[secure/lab6/lab6.pdf Lab 6] |[secure/lab6/orig.mat orig.mat], [secure/lab6/phdist.mat phdist.mat],[secure/lab6/prob1.m prob1.m]\n
+[secure/lab6/prob2.m prob2.m]|[secure/lab6/Lab6sol.pdf solution] ||
+
+July 26, 2011|IIR Filter Design| [secure/lab7/lab7.pdf Lab 7] |  | ||
+
+August 02, 2011| Exam| [secure/exam/Exam.pdf Exam]|[secure/exam/tones.mat tones.mat] | 
+
+~~~

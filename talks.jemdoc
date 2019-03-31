@@ -1,0 +1,53 @@
+# jemdoc: menu{menu.jemdoc}{talks.html} 
+= Talks & Posters
+[https://www.stanford.edu/ Stanford University]
+
+== Selected Talks
+
+*Embracing Uncertainty* 
+- Stanford SystemX IoE Workshop, May 2017 [IOE_3_Kairouz_v2.pdf \[slides\]]
+
+*Discrete Distribution Estimation under Local Privacy*
+- International Conference on Machine Learning (ICML), June 2016 \[[icml2016_v2.pdf slides1], [DDELP_google.pdf slides2]\]
+
+*Differentially Private Multi-Party Computation* 
+- Conference on Information Sciences and Systems (CISS), March 2016 [ciss2016.pdf \[slides\]]
+
+
+*The Fundamental Limits of Data and Metadata Privacy* 
+- University of Southern California (USC), April 2016 [job_talk_USC.pdf \[slides\]]
+- PhD Thesis Defense, April 2016 [phd_thesis.pdf \[slides\]]
+- Signals, Inference, and Networks (SINE) Seminar at UIUC, January 2016 [sine_2015.pdf \[slides\]]
+- PhD Prelim Exam, April 2015 [prelim_pres.pdf \[slides\]]
+
+*Hiding the Rumor Source*
+- SIGMETRICS, June 2015 [sigmetrics_talk_2015.pdf \[slides\]]
+- Qualcomm Innovation Fellowship, March 2015 [qinf_presentation.pdf \[slides\]]
+- International Conference on Machine Learning (ICML), June 2016 [icml2016_presentation.pdf \[slides\]]
+
+*Extremal Mechanisms for Local Differential Privacy*
+- Google Research, June 2015 [privacy_google.pdf \[slides\]]
+- CSL Communications/ICWS Seminar at UIUC, February 2015 [privacy_pres2.pdf \[slides\]]
+
+== Selected Posters
+
+*Discrete Distribution Estimation under Local Privacy*
+- International Conference on Machine Learning (ICML), June 2016 [icml2016poster.pdf \[poster\]]
+
+*Differentially Private Multi-Party Computation* 
+- Neural Information Processing Systems (NIPS), December 2016 [nips2015_poster.pdf \[poster\]]
+
+*The Composition Theorem for Differential Privacy*
+- International Conference on Machine Learning (ICML), July 2015 \[[slide_icml2015.pdf slides], [icml_poster.pdf poster]\]
+
+*Hiding the Rumor Source*
+- Qualcomm Innovation Fellowship, March 2015 \[[fanti_kairouz_p1.pdf poster1], [fanti_kairouz_p2.pdf poster2]\]
+- International Conference on Machine Learning (ICML), June 2016 [icml_poster_anonymous.pdf \[poster\]]
+
+*Extremal Mechanisms for Local Differential Privacy*
+- Google PhD Intern Research Conference, July 2015 [google_poster.pdf \[poster\]]
+- Neural Information Processing Systems (NIPS), December 2014 [nips_poster.pdf \[poster\]]
+
+*Scaling Wireless Sensor Networks to the Next Trillion Devices*
+- Stanford SystemX IoE Workshop, November 2016 [SystemX_poster_PK.pdf \[poster\]]
+

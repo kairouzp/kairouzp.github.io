@@ -1,0 +1,25 @@
+# jemdoc: menu{menu.jemdoc}{index.html}
+==ECE 310: Digital Signal Processing I
+[http://illinois.edu University of Illinois at Urbana-Champaign]
+
+== Course Notes:
+
+~~~
+{}{table}{}
+Topics | Chapter ||
+DSP overview\n
+Continuous-time (CT) and discrete-time (DT) signals |  [secure/Chapter1.pdf Chapter 1]  ||
+Complex numbers |  [secure/AppendA.pdf Appendix A]  ||
+Impulses|  [secure/AppendD.pdf Appendix D] ||
+CT and DT Signal Representations|  [secure/Chapter2.pdf Chapter 2] ||
+CT and DT Systems|  [secure/Chapter3.pdf Chapter 3] ||
+z-Transforms|  [secure/Chapter5.pdf Chapter 5], [secure/Chapter7.pdf Chapter 7] ||
+Frequency Response of LSI Systems|  [secure/Chapter8.pdf Chapter 8] ||
+Implementation of A-D and D-A Converters|  [secure/Chapter9.pdf Chapter 9]||
+Classes of Digital Filters|  [secure/Chapter10.pdf Chapter 10]||
+FIR Filter Design|  [secure/Chapter11.pdf Chapter 11]||
+IIR Filter Design|  [secure/Chapter12.pdf Chapter 12]||
+Downsampling and Upsampling|  [secure/Chapter13.pdf Chapter 13]||
+FFT and Fast Convolution|  [secure/Chapter14.pdf Chapter 14]
+
+~~~

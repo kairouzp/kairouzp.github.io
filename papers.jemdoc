@@ -1,0 +1,114 @@
+# jemdoc: menu{menu.jemdoc}{papers.html} 
+= Publications
+[https://www.stanford.edu/ Stanford University]
+
+
+== Manuscripts
+
+:{[sparse_CGT.pdf Sparse Combinatorial Group Testing Codes for Low-Energy Massive Random
+Access]}
+Huseyin Inan, Peter Kairouz, and Ayfer Ozgur\n 
+ Submitted to IEEE Transactions on Information Theory \[[https://arxiv.org/abs/1711.05403 arXiv:1711.05403]\]
+ 
+== Journal Papers 
+
+:{[gap_entropy.pdf Context-Aware Generative Adversarial Privacy]}
+Chong Huang, Peter Kairouz, Xiao Chen, Lalitha Sankar, and Ram Rajagopal\n 
+Entropy 2017 [pubs/gap.bib \[bibtex\]] 
+
+:{[p4_composition_theorem.pdf The Composition Theorem for Differential Privacy]}
+Peter Kairouz, Sewoong Oh and Pramod Viswanath\n 
+IEEE Transactions on Information Theory 2017 [pubs/composition.bib \[bibtex\]] 
+
+:{[p3_hiding_source.pdf Hiding the Rumor Source]}
+Giulia Fanti, Peter Kairouz, Sewoong Oh, Kannan Ramchandran, and Pramod Viswanath\n
+IEEE Transactions on Information Theory 2017 [pubs/hiding_source.bib \[bibtex\]]
+
+:{[jmlr_2014.pdf Extremal Mechanisms for Local Differential Privacy]}
+Peter Kairouz, Sewoong Oh, and Pramod Viswanath \n
+Journal of Machine Learnin Research (JMLR) 2016 [pubs/extremal_jmlr.bib \[bibtex\]]
+
+:{[metadata_tsipn.pdf Metadata-Conscious Anonymous Messaging]}
+Giulia Fanti, Peter Kairouz, Sewoong Oh, Kannan Ramchandran, and Pramod Viswanath\n
+IEEE Transactions on Signal and Information Processing over Networks 2016 [pubs/metadata_tsipn.bib \[bibtex\]]
+
+:{[tstsp_2014.pdf The Staircase Mechanisms in Differential Privacy]}
+Quan Geng, Peter Kairouz, Sewoong Oh, and Pramod Viswanath\n
+IEEE Selected Topics in Signal Processing 2015 [pubs/staircase.bib \[bibtex\]]
+
+
+== Conference Papers
+
+:{[allerton_17.pdf Sparse Group Testing Codes for Low-Energy Massive Random
+Access]}
+Huseyin Inan, Peter Kairouz, and Ayfer Ozgur\n 
+Allerton 2017 [ \[bibtex\]]
+
+:{[ICC2017.pdf Asynchronous and Noncoherent Neighbor Discovery for the IoT using Sparse-Graph Codes]}
+Kabir Chandrasekher, Kangwook Lee, Peter Kairouz, Ramtin Pedarsani, and Kannan Ramchandran\n 
+ICC 2017 [pubs/asynchronous_gt.bib \[bibtex\]]
+
+:{[distribution_estimation.pdf Discrete Distribution Estimation under Local Privacy]}
+ Peter Kairouz, Keith Bonawitz, and Daniel Ramage\n 
+ICML 2016 [pubs/private_distribution.bib \[bibtex\]]
+
+:{[metadata_icml.pdf Metadata-Conscious Anonymous Messaging]}
+Giulia Fanti, Peter Kairouz, Sewoong Oh, and Pramod Viswanath\n 
+ICML 2016 [pubs/metadata_icml.bib \[bibtex\]]
+
+:{[ciss_2016.pdf Differentially Private Multi-party Computation]}
+Peter Kairouz, Sewoong Oh, and Pramod Viswanath\n 
+CISS 2016 [pubs/multiparty_ciss.bib \[bibtex\]]
+
+:{[sigmetrics_2016.pdf Rumor Source Obfuscation on Irregular Trees]}
+Giulia Fanti, Peter Kairouz, Sewoong Oh, Kannan Ramchandran, and Pramod Viswanath\n
+SIGMETRICS 2016 [pubs/irregular_obfuscation.bib \[bibtex\]]
+
+:{[nips_2015.pdf Secure Multi-party Differential Privacy]}
+Peter Kairouz, Sewoong Oh, and Pramod Viswanath\n 
+NIPS 2015 [pubs/multiparty_nips.bib \[bibtex\]]
+
+:{[sigmetrics_2015.pdf Spy vs. Spy: Rumor Source Obfuscation]}
+Giulia Fanti, Peter Kairouz, Sewoong Oh, Pramod Viswanath\n
+SIGMETRICS 2015 [pubs/obfuscation.bib \[bibtex\]] *\[Best Paper Award\]*
+
+:{[icml_2015.pdf The Composition Theorem for Differential Privacy]}
+Peter Kairouz, Sewoong Oh and Pramod Viswanath\n 
+ICML 2015 [pubs/composition_icml.bib \[bibtex\]]
+
+:{[nips_2014.pdf Extremal Mechanisms for Local Differential Privacy]}
+Peter Kairouz, Sewoong Oh, and Pramod Viswanath\n 
+NIPS 2014 [pubs/extremal_nips.bib \[bibtex\]]
+
+:{[icassp2013m.pdf Interference aware rate control for bursty interference channels]}
+Peter Kairouz, Ahmed Sadek, and Tamer Kadous\n 
+ICASSP 2013 [pubs/interference_aware.bib \[bibtex\]]
+
+:{[asilomar2012.pdf A sphere decoding approach for the vector Viterbi algorithm]}
+Peter Kairouz, Aolin Xu, Naresh Shanbhag, and Andrew Singer\n 
+ASILOMAR 2012 [pubs/sphere_mimo.bib \[bibtex\]]
+
+:{[asilomar_2012.pdf Convergence rates for cooperation in heterogeneous populations]}
+Andrew Bean, Peter Kairouz, and Andrew Singer\n 
+ASILOMAR 2012 [pubs/cooperation_convergence.bib \[bibtex\]]
+
+== Workshop Papers
+
+:{[nips_2016.pdf Differentially Private Multi-party Computation]}
+Peter Kairouz, Sewoong Oh, and Pramod Viswanath\n 
+Private Multi-Party Learning (NIPS 2016) [https://pmpml.github.io/PMPML16/ \[link\]]
+
+== Dissertations & Reports
+
+:{[kairouz_phd_thesis.pdf The Fundamental Limits of Statistical Data Privacy]}
+Ph.D. Thesis, UIUC, May 2016
+
+:{[PrelimReportKairouz.pdf Anonymous and Private Communication]}
+Ph.D. Prelim Report, UIUC, April 2015
+
+:{[MscThesisKairouz.pdf MIMO Communications Over Multi-Mode Optical Fibers]}
+M.S. Thesis, UIUC, December 2012
+
+:{[huawei_report.pdf A Survey of Turbo MIMO Receivers for LTE/LTE-A]}
+Huawei Technologies Report, Huawei, January 2012
+

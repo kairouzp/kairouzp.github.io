@@ -1,0 +1,16 @@
+# jemdoc: menu{menu.jemdoc}{homework.html}
+==ECE 310: Digital Signal Processing I
+[http://illinois.edu University of Illinois at Urbana-Champaign]
+
+== Homework:
+
+~~~
+{}{table}{}
+ Due Date| Homework| Solution ||
+June 24, 2011| [secure/Homework1.pdf Homework 1]| [secure/Homework1Sol.pdf solution]||
+July 1, 2011| [secure/Homework2.pdf Homework 2]| [secure/Homework2Sol.pdf solution]||
+July 8, 2011| [secure/Homework3.pdf Homework 3]|[secure/Homework3Sol.pdf solution] ||
+July 15,2011| [secure/Homework4.pdf Homework 4]|[secure/Homework4Sol.pdf solution] ||
+July 22,2011| [secure/Homework5.pdf Homework 5]| [secure/Homework5Sol.pdf solution] ||
+Aug 03,2011| [secure/Homework6.pdf Homework 6] | [secure/Homework6Sol.pdf solution] 
+~~~

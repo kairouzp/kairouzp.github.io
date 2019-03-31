@@ -1,0 +1,23 @@
+# jemdoc: menu{menu.jemdoc}{index.html}
+==ECE 310: Digital Signal Processing I
+[http://illinois.edu University of Illinois at Urbana-Champaign]
+
+== General Information:
+
+~~~
+{}{table}{}
+Instructors: | [https://www.ece.illinois.edu/directory/profile/cradhak Chandra Radhakrishnan]| [../../index.html Peter Kairouz]||
+E-mail: | cradhak@illinois.edu   | kairouz2@illinois.edu||
+Office Hours:   | T, 10:00 AM - 12:00 PM  | R, 10:00 AM - 12:00 PM ||
+Office: | 120 CSL   | 119 CSL
+~~~
+
+== Lectures and Recitation Session:
+
+- Lectures: MTWRF, 8:30 AM - 9:50 AM (Everitt Lab 241)\n
+- Recitation Session: R, 5:00 PM - 6:00 PM (EH 106B6)\n
+
+
+== Miscellaneous:
+- [secure/syllabus.pdf Course syllabus] 
+- [../ece311/index.html Digital Signal Processing Lab: ECE 311] 
