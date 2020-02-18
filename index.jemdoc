@@ -3,20 +3,21 @@
 
 ~~~
 {}{img_left}{kairouz_new.jpg}{alt text}{170px}{240px}
-Postdoctoral Research Fellow\n
-[https://ee.stanford.edu/ Electrical Engineering]\n
-[https://www.stanford.edu/ Stanford University]\n
-+1 (217) 550-2697\n
-[kairouzp@stanford.edu kairouzp@stanford.edu] \n
-Hosts: [http://stanford.edu/~aozgur/ Ayfer Ozgur] and [http://web.stanford.edu/~ramr/ Ram Rajagopal] \n
-- [kairouzcv.pdf CV] +*(12\/1\/2017)*+ 
-- [kairouz_research.pdf Research Statement] +*(12\/1\/2017)*+
-- [kairouz_teaching.pdf Teaching Statement] +*(12\/1\/2017)*+
-- [https://scholar.google.com/citations?user=m8NUgw0AAAAJ&hl=en Google Scholar Profile]
+Research Scientist at Google \n
+[kairouzcv.pdf Resume] \n
+[https://research.google/people/PeterKairouz/ Google AI Profile] \n
+[https://scholar.google.com/citations?user=m8NUgw0AAAAJ&hl=en Google Scholar Profile] \n
+Contact: last name at company name dot com
 ~~~
 t 
 == News
 ~~~
+- Check out our one of a kind [https://arxiv.org/pdf/1912.04977.pdf Advances and Open Problems in Federated Learning] paper.
+- Our work [https://arxiv.org/pdf/1911.06679.pdf Generative Models for Effective ML on Private, Decentralized Datasets] will appear at ICLR 2020.
+- Our work [https://arxiv.org/pdf/1902.08534.pdf Federated Heavy Hitters Discovery with Differential Privacy] will appear at AISTATS 2020.
+- I am the lead organizer of Google's [https://sites.google.com/view/federated-learning-2019/home Workshop and Federated Learning and Analytics].
+- Check out our new work on [https://arxiv.org/pdf/1911.00038.pdf Context-Aware Local Differential Privacy].
+- I have joined Google as a Research Scientist focusing on federated learning and differential privacy.
 - Check out our new work on [kairouz_GAP.pdf Generative Adversarial Privacy].
 - Slides for my talk "Embracing Uncertainty" at [https://systemx.stanford.edu/events/workshop/20170509/2017-spring-workshop-day-heterogeneous-integration-ioe-and-photonic-quantum Stanford SystemX IoE Workshop] are now available [IOE_3_Kairouz_v2.pdf here]. 
 - Check out our new work on [kairouz_SCGT.pdf Sparse Combinatorial Group Testing].
@@ -31,9 +32,12 @@ t
 ~~~
 
 == Biography
-I am a postdoctoral scholar at Stanford University. I received my MS in ECE, MS in Maths, and PhD in ECE from the University of Illinois at Urbana-Champaign. For my masters, I was mainly interested in signal processing and wireless communication. I interned twice at Qualcomm (in 2012 and 2013), and was awarded The 2012 Roberto Padovani Scholarship from Qualcomm's Research Center. For my PhD, I chose to work on privacy-preserving machine learning and anynomous broadcasting over networks, winning the Best Paper Award at SIGMETRICS 2015. I recently interned at Google, where I designed privacy-aware machine learning algorithms. My research interests span the areas of data and network sciences, privacy-preserving data analysis, machine learning, and information theory.
+Peter Kairouz is a research scientist at Google, where he leads research efforts on distributed, privacy-preserving, and robust machine learning. Prior to joining Google, he was a postdoctoral research fellow at Stanford University, and before that, he was a PhD student at the University of Illinois Urbana-Champaign (UIUC). He is the recipient of the 2012 Roberto Padovani Scholarship from Qualcomm's Research Center, the 2015 ACM SIGMETRICS Best Paper Award, the 2015 Qualcomm Innovation Fellowship Finalist Award, and the 2016 Harold L. Olesen Award for Excellence in Undergraduate Teaching from UIUC.
 
 == Education
+*[https://www.stanford.edu/ Stanford University]*
+- Postdoctoral Research Fellow, August 2018
+
 *[http://illinois.edu University of Illinois at Urbana-Champaign]*
 - Ph.D. in Electrical and Computer Engineering, May 2016
 - M.S. in Applied Mathematics, May 2016 
@@ -61,8 +65,11 @@ I am a postdoctoral scholar at Stanford University. I received my MS in ECE, MS 
 - Graduated with High Distinction, 2006
 
 == Research Experience
+*[https://ai.google/ Google AI, Google]*
+- Federated Learning and Differential Privacy, August 2018 \- Present
+
 *[http://isl.stanford.edu/ Information Systems Laboratory, Stanford University]* 
-- On-device Intelligence and Context-Aware Privacy, September 2016 \- Present
+- On-device Intelligence and Context-Aware Privacy, September 2016 \- August 2018
 
 *[http://www.csl.uiuc.edu/ Coordinated Science Laboratory, University of Illinois]*
 - Metadata Privacy and Privacy-Preserving Learning, January 2013 \- August 2016
